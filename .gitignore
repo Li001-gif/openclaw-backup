@@ -1,0 +1,11 @@
+# 排除敏感/临时文件
+.openclaw/
+.config/
+.clawhub/
+.learnings/
+memory/
+reminders/
+jt/
+memes/
+screenshots/
+scripts/
