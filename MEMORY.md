@@ -16,3 +16,10 @@
 
 1. 每次获取服务器IP时，必须确认为公网IP而非内网IP
 2. 涉及到给用户发送连接信息时，必须反复核对准确性
+
+## GitHub 备份
+
+- **仓库地址**: https://github.com/Li001-gif/openclaw-backup
+- **状态**: 已 commit，待 push（服务器网络被墙，需挂 VPN）
+- **备份内容**: 核心配置文件 + skills/ 技能目录
+- **详细进度**: 见 memory/github-backup-progress.md
